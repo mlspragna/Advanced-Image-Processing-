@@ -4,7 +4,7 @@ Welcome to the repository for the "Advanced Image Processing" course at the Indi
 
 ## Assignments
 
-The assignments for this course are organized in separate folders, each containing the assignment details, starter code, and any additional resources needed. You can find the assignments in the [Assignments](./Assignments) directory.
+The assignments for this course are organized in separate folders, each containing the assignment details, starter code, and any additional resources needed. 
 
 ## Project
 
