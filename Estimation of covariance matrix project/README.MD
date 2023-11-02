@@ -46,7 +46,3 @@ This project contributes a method for estimating sample covariance matrices from
 - [Link to the Original Paper](https://arxiv.org/pdf/1512.08887.pdf)
 - [Unbiased Estimators](http://stat88.org/textbook/notebooks/Chapter_05/04_Unbiased_Estimators.html)
 - [Moments in Mathematics](https://en.wikipedia.org/wiki/Moment_(mathematics))
-
-Feel free to explore the code and use it for your own covariance matrix estimation tasks. If you have any questions or suggestions, please don't hesitate to reach out to the authors.
-
-This project is provided under the [Your License Name] License. See the [LICENSE](LICENSE) file for details.
