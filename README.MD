@@ -8,4 +8,4 @@ The assignments for this course are organized in separate folders, each containi
 
 ## Project
 
-The course project is a significant part of the curriculum. Details of the project, including the project description, guidelines, and resources, can be found in the [Project](./Estimation-of- covariance-matrix-project) directory.
+The course project is a significant part of the curriculum. Details of the project, including the project description, guidelines, and resources, can be found in the [Project](https://github.com/mlspragna/Advanced-Image-Processing-/tree/main/Estimation%20of%20covariance%20matrix%20project) directory.
