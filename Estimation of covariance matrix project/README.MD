@@ -1,6 +1,6 @@
 # Sample Covariance Estimation from Compressive Measurements
 
-**Authors**: Mls Pragna - 180050064, Rahul Puli - 180050080
+**Contributors**: Mls Pragna - 180050064, Rahul Puli - 180050080
 
 ## Abstract
 
