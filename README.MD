@@ -12,11 +12,6 @@ The "Advanced Image Processing" repository consists of four assignments and a pr
 
 This project presents a method for estimating the sample covariance matrix from compressive measurements of low-dimensional random projections. The method offers an unbiased covariance matrix estimation using random projection matrices with certain distributional properties.
 
-### Contributors
-
-- Mls Pragna - 180050064
-- Rahul Puli - 180050080
-
 ### Contents
 
 - Preliminaries
